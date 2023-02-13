@@ -1,11 +1,8 @@
 # Cloud Notes
 
-Most of these are incomplete notes. I will update them as time goes on.
+These notes are eternally incomplete, as I cannot write fast enough to keep up with changes in technology, and there are simply too many things to consider in the world of cloud and system design.
 
-## Table of Contents
-- [Comparing NoSQL and Relational Databases](/Comparing%20NoSQL%20and%20Relational%20Databases.md)
-- [Study Guides for Cloud Certifications](/Certifications/Study%20Guides)
-- [Azure Load Balancer](/Networking/Azure%20Load%20Balancer.md)
+But I strive for completion nonetheless!
 
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 in Houston, Texas to share with the world.
