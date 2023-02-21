@@ -13,6 +13,7 @@ However, it is possible to have two different inputs produce the same hashed out
 Salts are unique and random strings that are appended to passwords to further randomize the hashing process. A password is combined with a salt to produce a hash, so the process looks like this:
 
 password + salt = hash
+
 fidoTheDOG89% + seasons = a89sd7f6a890sd7f6809a7sdf690a8sdfty907d
 
 The random string produced in our example is much different that the hash that would have been generated if we passed in the password by itself, without the salt. This is how salting can increase the safety of your password storage.
