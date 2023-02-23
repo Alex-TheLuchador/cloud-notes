@@ -1,4 +1,4 @@
-# Virtual Machine Scale Sets
+# AAzure Virtual Machine Scale Sets
 
 Virtual machine scale sets lets load balanced VMs automatically increase or decrease in quantity depending on demand or schedule.
 
