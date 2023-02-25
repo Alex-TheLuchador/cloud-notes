@@ -4,5 +4,7 @@ These notes are eternally incomplete, as I cannot write fast enough to keep up w
 
 But I strive for completion nonetheless!
 
+<em>These notes are heavily Azure focused.</em>
+
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 in Houston, Texas to share with the world.
