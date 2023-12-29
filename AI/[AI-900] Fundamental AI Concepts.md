@@ -50,3 +50,13 @@ Microsoft provides Azure Vision Studio and Azure AI Vision, a development platfo
 - Image analysis
 - Face detection and recognition
 - OCR
+
+### Natural Language Processing (NLP)
+
+NLP is the area of AI for understanding written and spoken language. This includes:
+- Analyzing and interpreting text in documents
+- Interpreting spoken language and synthesizing responses
+- Automatically translating spoken or written phrases
+- Interpret commands and determine appropriate actions
+
+Microsoft's Azure AI Language platform allows you to build NLP solutions.
