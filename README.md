@@ -7,5 +7,5 @@ But I strive for completion nonetheless!
 <em>These notes are heavily Azure focused.</em>
 
 ### Notes taken and maintained by me, Alex Hernandez.
-Created on October 7, 2022
+Created on October 7, 2022 <br>
 Houston, Texas
