@@ -6,6 +6,11 @@ But I strive for completion nonetheless!
 
 <em>These notes are heavily Azure focused.</em>
 
+## Table of Contents
+
+1. [AI-900](./AI)
+    - [1. Fundamental AI Concepts](./AI/[AI-900]%201.%20Fundamental%20AI%20Concepts.md)
+
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 <br>
 Houston, Texas
