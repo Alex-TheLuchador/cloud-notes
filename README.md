@@ -6,12 +6,6 @@ But I strive for completion nonetheless!
 
 <em>These notes are heavily Azure focused.</em>
 
-## Table of Contents
-
-- [AI-900: Microsoft Azure AI Fundamentals](./AI)
-    - [1. Fundamental AI Concepts](./AI/[AI-900]%201.%20Fundamental%20AI%20Concepts.md)
-    - [2. Fundamentals of Machine Learning](./AI/[AI-900]%202.%20Fundamentals%20of%20Machine%20Learning.md)
-
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 <br>
 Houston, Texas
