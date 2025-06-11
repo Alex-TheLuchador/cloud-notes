@@ -1,2 +1,2 @@
-update_git_config_personal.sh
-update_git_config_work.sh
+env
+*.env
