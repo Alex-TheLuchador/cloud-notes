@@ -1,0 +1,6 @@
+id,symbol,name,current_price,market_cap,total_volume
+bitcoin,btc,Bitcoin,107015.0,2127962538117,23800722336
+ethereum,eth,Ethereum,2409.66,290679990723,12990101448
+tether,usdt,Tether,1.0,157258177785,42373100460
+ripple,xrp,XRP,2.12,124775929668,2823262199
+binancecoin,bnb,BNB,644.07,93944495799,620601639
