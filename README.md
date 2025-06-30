@@ -7,6 +7,9 @@ But I strive for completion nonetheless!
 ## Jump to Projects:
 [Data Engineering Projects](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Data%20Science%20%26%20Engineering/Projects)
 
+## Glossary
+[Click here for a helpful glossary!](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Glossary.md)
+
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 <br>
 Houston, Texas
