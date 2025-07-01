@@ -5,7 +5,7 @@ These notes are eternally incomplete, as I cannot write fast enough to keep up w
 But I strive for completion nonetheless!
 
 ## Jump to Projects:
-[Data Engineering Projects](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Data%20Science%20%26%20Engineering/Projects)
+[Data Engineering Projects](https://github.com/Alex-TheLuchador/projects)
 
 ## Glossary
 [Click here for a helpful glossary!](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Glossary.md)
