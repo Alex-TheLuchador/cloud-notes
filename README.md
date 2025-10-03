@@ -8,7 +8,7 @@ But I strive for completion nonetheless!
 [Data Engineering Projects](https://github.com/Alex-TheLuchador/projects)
 
 ## Glossary
-[Click here for a helpful glossary!](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Glossary.md)
+[Click here for a glossary of cloud/tech terms.](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Glossary.md)
 
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 <br>
