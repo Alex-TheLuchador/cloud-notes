@@ -46,12 +46,10 @@
  |         15.384615384615385 |
  +----------------------------+
 
- -------------- PLEASE WRITE YOUR SQL SOLUTION BELOW THIS LINE ---------------- 
- */
-
 -- Step 1: count low fat and recyclable products
 -- Step 2: divide by total number of products
 -- Step 3: multiply by 100 to get a percentage
+ */
 
 SELECT 
     AVG(CASE 
