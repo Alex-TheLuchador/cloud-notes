@@ -9,4 +9,4 @@ In Nmap, a TCP SYNC scan is the default and most popular type of scan because it
 This works because a connection is never truly established because the final handshake ACK packet is never sent.
 
 ## Connect Scan
-In Nmap, the Connect scan has the underlying OS issue a "connect" system call, which tries to complete the full TCP handshake (SYN - SYN/ACK - ACK) with the target port.
+In Nmap, the Connect scan has the underlying OS issue a "connect" system call, which tries to complete the full TCP handshake (SYN - SYN/ACK - ACK) with the target port, making it a slow and easily detectable method.
