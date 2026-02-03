@@ -4,7 +4,11 @@ These notes are eternally incomplete, as I cannot write fast enough to keep up w
 
 But I strive for completion nonetheless!
 
-<em>These notes are heavily Azure focused.</em>
+## Jump to Projects:
+[Data Engineering Projects](https://github.com/Alex-TheLuchador/projects)
+
+## Glossary
+[Click here for a glossary of cloud/tech terms.](https://github.com/Alex-TheLuchador/cloud-notes/tree/master/Glossary.md)
 
 ### Notes taken and maintained by me, Alex Hernandez.
 Created on October 7, 2022 <br>
