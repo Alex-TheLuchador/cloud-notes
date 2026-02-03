@@ -271,6 +271,6 @@ Let's try it out.
 
 `ssh trunks@192.168.52.73`
 
-It took a few tries (I initially tried all upercase, then all lowercase, which was the proper way). After entering the password, we successfully connected as the user Trunks!
+It took a few tries (I initially tried 'U$3R' in all uppercase, which didn't work, so I tried 'u$3r' in all lowercase, which was the proper way). After entering the password, we successfully connected as the user Trunks!
 
 Now, we must find the flag.
