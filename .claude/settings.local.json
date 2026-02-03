@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push:*)",
+      "Bash(git -c http.postBuffer=524288000 push origin master)"
+    ]
+  }
+}
